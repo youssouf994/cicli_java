@@ -1,3 +1,5 @@
+/*FORMULARIO NON COMPLETO-AREA RETTANGOLO/AREA CERCHIO*/
+
 package esercizi;
 
 import java.util.Scanner;//libreria per l'input
