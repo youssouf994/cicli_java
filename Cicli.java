@@ -1,3 +1,37 @@
+/*5. Usare un ciclo while per scrivere i primi 5 numeri dispari a partire da 1, rifare l'esercizio coi cicli do while e for
+
+6. Usare un ciclo while per scrivere i primi 5 numeri pari a partire da 2, rifare l'esercizio coi cicli do while e for
+
+7. Un programma che stampa la tabella pitagorica dei numeri da 1 a 10 in un formato incolonnato
+
+8. Realizzare un programma che, tramite cicli annidati, dia questo output:
+*
+**
+***
+****
+*****
+
+9. Realizzare un programma che, tramite cicli annidati, dia questo output (gli "_" rappresentano degli spazi):
+____**
+___****
+__******
+_********
+**********
+Hint:
+- anche lo spazio è un carattere per java
+- potete usare più di un ciclo interno dentro ad un ciclo esterno
+
+10. Tramite cicli annidati stampare un rettangolo composto di asterischi la cui diagonale risulti vuota (gli "_" rappresentano degli spazi)
+_****
+*_***
+**_**
+***_*
+****_
+Hint: lo spazio è uno solo per ogni riga, quindi non ha bisogno di cicli dedicati, è un po’ come se gli asterischi fossero divisi in due gruppi,
+quelli a sinistra degli spazi e quelli a destra, tra  vari modi di procedere si può creare un for distinto per ognuno dei due gruppi,
+oppure sfruttare la posizione particolare degli spazi per creare un solo ciclo che al momento giusto (if?) stampi uno spazio anziché un asterisco
+(in entrambi i casi serve un for esterno che faccia 5 iterazioni, una per riga)*/
+
 package esercizi;
 
 import java.util.Scanner;
