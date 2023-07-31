@@ -1,3 +1,5 @@
+/*AREA RETTANGOLO*/
+
 package esercizi;
 
 import java.util.Scanner;
