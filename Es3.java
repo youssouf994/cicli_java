@@ -1,3 +1,8 @@
+/*3. Creare la classe Esercizio3, nal main dichiarare due variabili reali x e y ed assegnare loro valori a piacere, usando il costrutto if:
+. se x è maggiore di y stampare "x > y"
+. altrimenti se x è minore di y stampare "x < y"
+. altrimenti stampare "x = y"*/
+
 package esercizi;
 
 public class Es3 {
