@@ -1,3 +1,8 @@
+/*1. Creare la classe Esercizio1, nel main dichiarare due variabili booleane di nome b1 e b2 ed assegnare loro valori a piacere, usando il costrutto if e 
+gli operatori logici:
+. se sono entrambe vere (true) stampare "tutto apposto" 
+. altrimenti "qualcosa non quadra"*/
+
 package esercizi;
 
 public class Es1 {
